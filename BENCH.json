@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "METABCI",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\BRAIN_COMPUTER_INTERFACE\\METABCI\\UPSTREAM_CLONE",
   "git": {
-   "head": "7819d70e3b40d7c7311f60d2084a3182e622de49",
-   "url": "https://github.com/NeuroTechX/moabb",
-   "branch": "develop",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12"
+   "url": "https://github.com/TBC-TJU/MetaBCI",
+   "head": "3bc9643f3c39a616e73fa4872e6a77c536ad6107",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/NeuroTechX/moabb"
   }
  },
  "metrics": {
